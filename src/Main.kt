@@ -1,7 +1,7 @@
 fun main() {
-    var num1 = 50
-    var num2 = 30
-    var result = num1 % num2
+    var a = 65
+    var b=32
 
-    println(result)
+    var output=a!=b
+    println(output)
 }
